@@ -1,0 +1,236 @@
+canonical_identifier: bkk:krp/KR5g0116/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5g0116/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海瓊白真人語錄
+  date: '2015-08-29 02:55:57.190475'
+  source:
+    repository: kanripo
+    path: KR5g0116
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0116_000-CK-KZ-jye.yaml, hash: 'sha256:540f978a082e4d1aacb9ce116e3698c55dd71d51db843a98d126431d7a64387c'}
+  - {seq: 1, filename: KR5g0116_001-CK-KZ-jye.yaml, hash: 'sha256:a0fe2eaf56c74015d006203e355ba6f29d7c60ab60b06e1b809e3b3a88e53887'}
+  - {seq: 2, filename: KR5g0116_002-CK-KZ-jye.yaml, hash: 'sha256:e5f842efc1b8cc1bdcb5de2fa90c318342a85ece2ec8a47e832ac2dfaebd88a7'}
+  - {seq: 3, filename: KR5g0116_003-CK-KZ-jye.yaml, hash: 'sha256:923ff965703f8f720fb4ac886471b789b088804f62941ec45aa611c0b7e16609'}
+  - {seq: 4, filename: KR5g0116_004-CK-KZ-jye.yaml, hash: 'sha256:fa66d790597b2e32ad800e6e59de3f1ec5581e2a63231ac41db3934d0b8ae901'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5g0116_001-CK-KZ-jye.markers.yaml, hash: 'sha256:531b1a896ef0c19a73d42f9c50b809de03fc86cb14767c5ca9eda56316d1f1c8'}
+  - {seq: 2, role: markers, filename: assets/KR5g0116_002-CK-KZ-jye.markers.yaml, hash: 'sha256:0b66c416fec5b633d8930153f123235dce3be01b3e2c53a7c56bbb12c754d191'}
+  - {seq: 3, role: markers, filename: assets/KR5g0116_003-CK-KZ-jye.markers.yaml, hash: 'sha256:837518cb59434ab0d6152a8426377ed173afd94cd29fe217dc3b1b726709a79b'}
+  - {seq: 4, role: markers, filename: assets/KR5g0116_004-CK-KZ-jye.markers.yaml, hash: 'sha256:94b40f81c53ce7196339885ea14b9a22802c345b5bc45305014604a5cead221d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h2
+    span:
+    - body
+    - 0
+    - 796
+  label: 傳度謝恩表文
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h3
+    span:
+    - body
+    - 796
+    - 1083
+  label: 霄吟三絶
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h4
+    span:
+    - body
+    - 1083
+    - 1265
+  label: 飛仙吟贈留紫元¶(三見)
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h5
+    span:
+    - body
+    - 1265
+    - 1321
+  label: 題天慶觀¶<md:KR5g0116_HFL_001-022b>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h6
+    span:
+    - body
+    - 1321
+    - 1377
+  label: 題嶽祠
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h7
+    span:
+    - body
+    - 1377
+    - 1610
+  label: 乳燕飛華屋¶<md:KR5g0116_HFL_001-023a>
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h8
+    span:
+    - body
+    - 1610
+    - 1666
+  label: 贈蕊珠侍經潘常吉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR5g0116_CK-KZ-jye_001-h9
+    span:
+    - body
+    - 1666
+    - 1722
+  label: 贈紫華侍經周希清
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR5g0116_CK-KZ-jye_002-h1
+    span:
+    - body
+    - 0
+    - 5987
+  label: 鶴林法語
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5g0116_CK-KZ_01p030a
+    span:
+    - body
+    - 0
+    - 1
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h1
+    span:
+    - body
+    - 0
+    - 1004
+  label: 武夷升堂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h2
+    span:
+    - body
+    - 1004
+    - 1097
+  label: 持綱云
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h3
+    span:
+    - body
+    - 1097
+    - 1267
+  label: 結座云
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h4
+    span:
+    - body
+    - 1267
+    - 2257
+  label: 常州清醮升堂¶<md:KR5g0116_HFL_003-005b>
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h5
+    span:
+    - body
+    - 2257
+    - 3169
+  label: 廬士升堂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h6
+    span:
+    - body
+    - 3169
+    - 3686
+  label: 平江鶴會升堂
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h7
+    span:
+    - body
+    - 3686
+    - 4154
+  label: 結座云
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h8
+    span:
+    - body
+    - 4154
+    - 4843
+  label: 東樓小參¶(重出)
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h9
+    span:
+    - body
+    - 4843
+    - 5315
+  label: 冬至小參¶(重出)
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5g0116_CK-KZ-jye_004-h10
+    span:
+    - body
+    - 5315
+    - 5528
+  label: 西林入室
+  type: section
+  level: 2
+hash: sha256:9dccb5624c4320c705f674a2a74324829b03580cdda785dad27df559b55e4a77

@@ -1,0 +1,14 @@
+canonical_identifier: bkk:krp/KR5g0116/YP-C/v1/markers/3
+seq: 3
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5g0116_YP-C_003-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5g0116_YP-C_16louji-07-0030a01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5g0116_YP-C_003-bkkkrnewl2}
+  back: []
+hash: sha256:943dce2115f5dc8f6689263c90b4ec8b6a9e2b3af2e3b819981e3c714b02a0b6

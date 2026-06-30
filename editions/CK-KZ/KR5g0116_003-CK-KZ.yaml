@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5g0116/CK-KZ/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之
+  hash: sha256:0ca502f6699c90aa0269f5149ec4c7dc575678f9719580a92f336829c07d6586
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5g0116_CK-KZ_01p030a, image: JY186/CK-KZ_JY186_01p030a.png}
+metadata:
+  title: 海瓊白真人語錄
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 02:55:57.190475'
+  source:
+    repository: kanripo
+    path: KR5g0116/KR5g0116_003.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:8809d029a90732972b3237fc364545e5b229228b25f42ebd8ed82033ad4541c7
