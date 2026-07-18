@@ -1042,6 +1042,7 @@ markers:
       ', id: KR5g0116_krp_001-bkkkrnewl172}
   - {type: line-break, offset: 2626, content: '', id: KR5g0116_HFL_001-008b08}
   - {type: punctuation, offset: 2639, content: (, id: KR5g0116_krp_001-bkkpn1}
+  - {type: voice, offset: 2639, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2641, content: /, id: KR5g0116_krp_001-bkkpn2}
   - {type: punctuation, offset: 2643, content: ), id: KR5g0116_krp_001-bkkpn3}
   - {type: 'kr:newline', offset: 2645, content: '
@@ -1157,6 +1158,7 @@ markers:
       ', id: KR5g0116_krp_001-bkkkrnewl194}
   - {type: line-break, offset: 2968, content: '', id: KR5g0116_HFL_001-009b08}
   - {type: punctuation, offset: 2981, content: (, id: KR5g0116_krp_001-bkkpn4}
+  - {type: voice, offset: 2981, length: 13, name: note, id: n2}
   - {type: punctuation, offset: 2985, content: /, id: KR5g0116_krp_001-bkkpn5}
   - {type: punctuation, offset: 2989, content: ), id: KR5g0116_krp_001-bkkpn6}
   - {type: 'kr:newline', offset: 2989, content: '
@@ -1167,6 +1169,7 @@ markers:
   - {type: punctuation, offset: 2992, content: /, id: KR5g0116_krp_001-bkkpn8}
   - {type: punctuation, offset: 2994, content: ), id: KR5g0116_krp_001-bkkpn9}
   - {type: punctuation, offset: 3000, content: (, id: KR5g0116_krp_001-bkkpn10}
+  - {type: voice, offset: 3000, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 3003, content: /, id: KR5g0116_krp_001-bkkpn11}
   - {type: punctuation, offset: 3006, content: ), id: KR5g0116_krp_001-bkkpn12}
   - {type: 'kr:newline', offset: 3011, content: '
@@ -2298,6 +2301,7 @@ markers:
   - {type: line-break, offset: 5849, content: '', id: KR5g0116_HFL_001-018b02}
   - {type: punctuation, offset: 5860, content: (, id: KR5g0116_krp_001-bkkpn13}
   - {type: substitution, offset: 5860, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
+  - {type: voice, offset: 5860, length: 8, name: note, id: n4}
   - {type: variant, offset: 5863, length: 1, content: 跡, CK-KZ: 蹟}
   - {type: variant, offset: 5863, length: 1, content: 跡, CK-KZ-jye: 蹟}
   - {type: variant, offset: 5863, length: 1, content: 跡, YP-C: 蹟}
@@ -3009,4 +3013,4 @@ markers:
 
       ', id: KR5g0116_krp_001-bkkkrnewl528}
   back: []
-hash: sha256:5e2f11d35b21a03548586b8f71992797d8326483d0d251b7da65ac5444e2a044
+hash: sha256:94d4416be966a60e246009fe122a5cf53e98cee1de60bc55e4967a38670454b5
